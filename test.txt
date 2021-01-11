@@ -1,0 +1,1 @@
+testing write string into filetesting write string into file
